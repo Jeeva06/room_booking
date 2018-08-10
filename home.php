@@ -2,7 +2,7 @@
 <?php
 
 ?>
-<hmtl>
+<html>
     <head>
         <title>Webber</title>
         <link rel="stylesheet" type="text/css" href="goal_css.css">
@@ -66,4 +66,4 @@
     </body>
    
 
-</hmtl>
+</html>
