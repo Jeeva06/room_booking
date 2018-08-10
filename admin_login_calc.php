@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<hmtl>
+<html>
     <head>
         <title>Webber</title>
         <link rel="stylesheet" type="text/css" href="goal_css.css">
@@ -104,4 +104,4 @@
         </div>
 <!--            <footer class="main-footer">All &copy; rights reserved <strong style="color: tomato">www.webber-jeeva.com</strong>--2018</footer>-->
     </body>
-</hmtl>
+</html>
